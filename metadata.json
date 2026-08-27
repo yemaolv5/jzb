@@ -1,0 +1,6 @@
+{
+  "name": "为您服务家政帮",
+  "description": "社区家政生活服务平台MVP交互原型 - 老年友好、大字大按钮、物业权益无感带入、极简下单闭环与服务评价",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
